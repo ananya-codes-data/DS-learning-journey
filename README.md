@@ -26,4 +26,4 @@ Each day includes:
 
 No zero days.
 
-Start Date: 15 February 2026
+Start Date: 16 February 2026

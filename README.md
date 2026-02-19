@@ -1,6 +1,6 @@
 # DS-learning-journey
 
-🔥 Current Streak: Day 3
+🔥 Current Streak: Day 4
 
 This repository is my progress tracker — documenting what I study, practice, revise, and build.
 
